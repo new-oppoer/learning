@@ -15,8 +15,6 @@ I'm learning coding.
 
 `git status -s`  output in more simple format
 
-<<<<<<< HEAD
-
 `git rm`		delete file
 
 `git mv  README.MD README ` move the file ,in other word file was renamed
@@ -63,14 +61,7 @@ I'm learning coding.
 
 ​      =`git branch iss53`   + `git checkout iss53`
 
-
-
-
-
-
-
-
->>>>>>> testing
+testing
 
 
 
