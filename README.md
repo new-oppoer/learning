@@ -15,6 +15,12 @@ I'm learning coding.
 
 `git status -s`  output in more simple format
 
+`git checkout -b iss53` create branch iss53,then switch to that branch
+
+​		 =`git branch iss53`   + `git checkout iss53`
+
+
+
 ### markdown
 
 
