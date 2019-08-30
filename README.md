@@ -5,6 +5,8 @@ I'm learning coding.
 
 ### git 
 
+`git config ` 	about user's configuration file 
+
 `git init` init the repository
 
 `git clone` clone an existed repository
