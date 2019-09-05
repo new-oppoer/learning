@@ -61,6 +61,24 @@ I'm learning coding.
 
 ​      =`git branch iss53`   + `git checkout iss53`
 
+`git fetch orgin ` 		update the local repository
+
+`git push (remote) (branch)` push to remote branch 
+
+`git checkout experiment ` 
+
+`git  rebase mater ` 	use the master as base ,apply experiment branch to it .
+
+​				=  `git merge experiment`
+
+ 
+
+
+
+
+
+testing
+
 testing
 
 
